@@ -120,14 +120,8 @@ int main(int argc, char *argv[]) {
     
     return 0;
 }
-
-    if (jogada % 2 == 0)
-        'X';
-    else
-        'O';
-
-    
     
     return 0;
 
 }
+
