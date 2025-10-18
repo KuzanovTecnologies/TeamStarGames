@@ -125,3 +125,5 @@ int main(int argc, char *argv[]) {
 
 }
 
+
+  printf("Você falhou! Pressione SPACE para reiniciar o jogo...\n");
